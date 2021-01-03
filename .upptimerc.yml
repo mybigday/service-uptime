@@ -4,23 +4,32 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: BRICKS
+    url: https://display.bricks.tw
+  - name: BRICKS BETA
+    url: https://display-beta.bricks.tools
+  - name: BRICKS Bank
+    url: https://bank.bricks.tw
+  - name: BRICKS Bank BETA
+    url: https://bank-beta.bricks.tools
+  - name: MyBigDay Group
+    url: https://group.mybigday.com.tw
+  - name: MyBigDay Group BETA
+    url: https://group-beta.mybigday.com.tw
+  - name: BotHub (GCP)
+    url: https://bothub.mybigday.com.tw
+  - name: BotHub BETA
+    url: https://bothub-beta.bricks.tw
+  - name: Media Resource (Auth0)
+    url: https://media-beta.bricks.tw
+  - name: Media Resource (Legacy)
+    url: https://media.mybigday.com.tw
+  - name: MyBigDay User (Legacy)
+    url: https://media.mybigday.com.tw
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
