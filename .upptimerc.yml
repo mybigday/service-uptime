@@ -5,13 +5,13 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: BRICKS
-    url: https://display.bricks.tw
+    url: https://display.bricks.tw/controller
   - name: BRICKS BETA
-    url: https://display-beta.bricks.tools
+    url: https://display-beta.bricks.tools/controller
   - name: BRICKS Bank
-    url: https://bank.bricks.tw
+    url: https://bank.bricks.tw/update
   - name: BRICKS Bank BETA
-    url: https://bank-beta.bricks.tools
+    url: https://bank-beta.bricks.tools/update
   - name: MyBigDay Group
     url: https://group.mybigday.com.tw
   - name: MyBigDay Group BETA
