@@ -29,9 +29,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /service-uptime
   cname: status.bricks.tools
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /service-uptime
   logoUrl: https://cdn.mybigday.com.tw/bricks/bricks.png
   name: BRICKS Status
   introTitle: ""
