@@ -28,10 +28,11 @@ sites:
     url: https://media.mybigday.com.tw
 
 status-website:
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /service-uptime
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.bricks.tools
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /service-uptime
+  apiBaseUrl: https://api.github.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
