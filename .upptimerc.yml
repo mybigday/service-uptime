@@ -6,7 +6,8 @@ sites:
   - name: BRICKS
     url: https://display.bricks.tw/controller
   - name: BRICKS BETA
-    url: https://display-beta.bricks.tools/controller
+    method: HEAD
+    url: https://display-beta.bricks.tools
   - name: BRICKS Bank
     url: https://bank.bricks.tw/update
   - name: BRICKS Bank BETA
@@ -38,6 +39,9 @@ status-website:
   navbar:
     - title: Status
       href: /
+
+i18n:
+  footer: This page is powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
