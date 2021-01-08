@@ -4,12 +4,13 @@ repo: service-uptime
 # Add your sites here
 sites:
   - name: BRICKS
-    url: https://display.bricks.tw/controller
+    method: HEAD
+    url: https://display.bricks.tools
   - name: BRICKS BETA
     method: HEAD
     url: https://display-beta.bricks.tools
   - name: BRICKS Bank
-    url: https://bank.bricks.tw/update
+    url: https://bank.bricks.tools/update
   - name: BRICKS Bank BETA
     url: https://bank-beta.bricks.tools/update
   - name: MyBigDay Group
