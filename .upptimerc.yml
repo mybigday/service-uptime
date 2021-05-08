@@ -21,6 +21,14 @@ sites:
     url: https://bothub.mybigday.com.tw
   - name: BotHub BETA
     url: https://bothub-beta.bricks.tw
+  - name: Media Flow BETA
+    url: https://media-beta.bricks.tools
+    expectedStatusCodes:
+      - 404
+  - name: Media Companion
+    url: https://media-companion.bricks.tools
+    expectedStatusCodes:
+      - 500
   - name: Media Resource (Auth0)
     url: https://media-beta.bricks.tw
   - name: Media Resource (Legacy)
