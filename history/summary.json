@@ -4,11 +4,11 @@
     "url": "https://display.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/display.bricks.tools",
     "slug": "bricks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 641,
     "timeDay": 655,
@@ -16,6 +16,7 @@
     "timeMonth": 592,
     "timeYear": 641,
     "dailyMinutesDown": {
+      "2021-08-29": 3,
       "2021-01-05": 142,
       "2021-01-03": 1
     }
@@ -25,11 +26,11 @@
     "url": "https://display-beta.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/display-beta.bricks.tools",
     "slug": "bricks-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 652,
     "timeDay": 623,
@@ -37,6 +38,7 @@
     "timeMonth": 590,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2021-08-29": 2,
       "2021-01-08": 46
     }
   },
@@ -45,10 +47,10 @@
     "url": "https://bank.bricks.tools/update",
     "icon": "https://favicons.githubusercontent.com/bank.bricks.tools",
     "slug": "bricks-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 654,
@@ -57,6 +59,7 @@
     "timeMonth": 584,
     "timeYear": 654,
     "dailyMinutesDown": {
+      "2021-08-29": 2,
       "2021-01-08": 27,
       "2021-01-03": 1
     }
@@ -66,10 +69,10 @@
     "url": "https://bank-beta.bricks.tools/update",
     "icon": "https://favicons.githubusercontent.com/bank-beta.bricks.tools",
     "slug": "bricks-bank-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 643,
@@ -78,6 +81,7 @@
     "timeMonth": 591,
     "timeYear": 643,
     "dailyMinutesDown": {
+      "2021-08-29": 1,
       "2021-01-03": 1
     }
   },
@@ -161,10 +165,10 @@
     "url": "https://media.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/media.bricks.tools",
     "slug": "media-flow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
@@ -172,7 +176,9 @@
     "timeWeek": 568,
     "timeMonth": 576,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-29": 1
+    }
   },
   {
     "name": "Media Flow BETA",
