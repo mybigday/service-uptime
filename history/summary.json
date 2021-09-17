@@ -239,10 +239,10 @@
     "url": "https://media.mybigday.com.tw",
     "icon": "https://favicons.githubusercontent.com/media.mybigday.com.tw",
     "slug": "media-resource-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
@@ -250,16 +250,18 @@
     "timeWeek": 581,
     "timeMonth": 645,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-17": 1
+    }
   },
   {
     "name": "MyBigDay User (Legacy)",
     "url": "https://media.mybigday.com.tw",
     "icon": "https://favicons.githubusercontent.com/media.mybigday.com.tw",
     "slug": "my-big-day-user-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -268,6 +270,8 @@
     "timeWeek": 124,
     "timeMonth": 137,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-17": 0
+    }
   }
 ]
