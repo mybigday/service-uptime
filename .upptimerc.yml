@@ -38,7 +38,7 @@ sites:
   - name: Media Resource (Legacy)
     url: https://media.mybigday.com.tw
   - name: MyBigDay User (Legacy)
-    url: https://media.mybigday.com.tw
+    url: https://user.mybigday.com.tw
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
