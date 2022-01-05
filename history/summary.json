@@ -156,19 +156,19 @@
     "url": "https://media.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/media.bricks.tools",
     "slug": "media-flow",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 603,
-    "timeWeek": 612,
-    "timeMonth": 657,
-    "timeYear": 607,
+    "time": 606,
+    "timeDay": 575,
+    "timeWeek": 601,
+    "timeMonth": 653,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2022-01-05": 0
+      "2022-01-05": 9
     }
   },
   {
