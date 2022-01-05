@@ -156,18 +156,20 @@
     "url": "https://media.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/media.bricks.tools",
     "slug": "media-flow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 657,
-    "timeWeek": 621,
-    "timeMonth": 661,
+    "timeDay": 603,
+    "timeWeek": 612,
+    "timeMonth": 657,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-05": 0
+    }
   },
   {
     "name": "Media Flow BETA",
