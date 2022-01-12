@@ -35,8 +35,6 @@ sites:
       - 500
   - name: Media Resource (Auth0)
     url: https://media-beta.bricks.tw
-  - name: Media Resource (Legacy)
-    url: https://media.mybigday.com.tw
   - name: MyBigDay User (Legacy)
     url: https://user.mybigday.com.tw
     expectedStatusCodes:
