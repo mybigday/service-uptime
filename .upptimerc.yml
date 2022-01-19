@@ -6,27 +6,14 @@ sites:
   - name: BRICKS
     method: HEAD
     url: https://display.bricks.tools
-  - name: BRICKS BETA
-    method: HEAD
-    url: https://display-beta.bricks.tools
   - name: BRICKS Bank
     url: https://bank.bricks.tools/update
-  - name: BRICKS Bank BETA
-    url: https://bank-beta.bricks.tools/update
   - name: MyBigDay Group
     url: https://group.mybigday.com.tw
-  - name: MyBigDay Group BETA
-    url: https://group-beta.mybigday.com.tw
   - name: BotHub (GCP)
     url: https://bothub.mybigday.com.tw
-  - name: BotHub BETA
-    url: https://bothub-beta.bricks.tw
   - name: Media Flow
     url: https://media.bricks.tools
-    expectedStatusCodes:
-      - 404
-  - name: Media Flow BETA
-    url: https://media-beta.bricks.tools
     expectedStatusCodes:
       - 404
   - name: Media Companion
