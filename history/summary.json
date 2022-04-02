@@ -6,27 +6,25 @@
     "slug": "bricks",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 645,
     "timeDay": 698,
     "timeWeek": 640,
     "timeMonth": 631,
     "timeYear": 638,
-    "dailyMinutesDown": {
-      "2022-04-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BRICKS Bank",
     "url": "https://bank.bricks.tools/update",
     "icon": "https://favicons.githubusercontent.com/bank.bricks.tools",
     "slug": "bricks-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +33,9 @@
     "timeWeek": 678,
     "timeMonth": 642,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "MyBigDay Group",
