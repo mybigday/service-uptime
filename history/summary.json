@@ -22,19 +22,19 @@
     "url": "https://bank.bricks.tools/update",
     "icon": "https://favicons.githubusercontent.com/bank.bricks.tools",
     "slug": "bricks-bank",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 784,
-    "timeWeek": 678,
+    "timeDay": 718,
+    "timeWeek": 674,
     "timeMonth": 642,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2022-04-02": 0
+      "2022-04-02": 7
     }
   },
   {
