@@ -58,19 +58,19 @@
     "url": "https://bothub.mybigday.com.tw",
     "icon": "https://favicons.githubusercontent.com/bothub.mybigday.com.tw",
     "slug": "bot-hub-gcp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 894,
-    "timeWeek": 842,
-    "timeMonth": 1044,
-    "timeYear": 834,
+    "time": 836,
+    "timeDay": 1076,
+    "timeWeek": 894,
+    "timeMonth": 1051,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2022-04-04": 0
+      "2022-04-04": 7
     }
   },
   {
