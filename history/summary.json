@@ -4,19 +4,19 @@
     "url": "https://display.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/display.bricks.tools",
     "slug": "bricks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 646,
-    "timeDay": 575,
+    "timeDay": 613,
     "timeWeek": 655,
     "timeMonth": 652,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 14
     }
   },
   {
