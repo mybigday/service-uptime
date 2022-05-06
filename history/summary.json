@@ -76,10 +76,10 @@
     "url": "https://media.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/media.bricks.tools",
     "slug": "media-flow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
@@ -87,16 +87,18 @@
     "timeWeek": 617,
     "timeMonth": 636,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 1
+    }
   },
   {
     "name": "Media Companion",
     "url": "https://media-companion.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/media-companion.bricks.tools",
     "slug": "media-companion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +107,9 @@
     "timeWeek": 660,
     "timeMonth": 650,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   },
   {
     "name": "Media Resource (Auth0)",
