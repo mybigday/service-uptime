@@ -21,6 +21,11 @@ sites:
     url: https://media.bricks.tools
     expectedStatusCodes:
       - 404
+  - name: Activity Log
+    method: HEAD
+    url: https://activity.bricks.tools
+    expectedStatusCodes:
+      - 404
   - name: Media Companion
     url: https://media-companion.bricks.tools
     expectedStatusCodes:
