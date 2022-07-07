@@ -7,7 +7,6 @@ sites:
     method: HEAD
     url: https://display.bricks.tools
   - name: BRICKS Device
-    method: HEAD
     url: https://device.bricks.tools
     expectedStatusCodes:
       - 404
@@ -22,7 +21,6 @@ sites:
     expectedStatusCodes:
       - 404
   - name: Activity Log
-    method: HEAD
     url: https://activity.bricks.tools
     expectedStatusCodes:
       - 404
