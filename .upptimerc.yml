@@ -9,6 +9,8 @@ sites:
   - name: BRICKS Device
     method: HEAD
     url: https://device.bricks.tools
+    expectedStatusCodes:
+      - 404
   - name: BRICKS Bank
     url: https://bank.bricks.tools/update
   - name: MyBigDay Group
