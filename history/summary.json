@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/device.bricks.tools",
     "slug": "bricks-device",
     "status": "up",
-    "uptime": "17.24%",
-    "uptimeDay": "17.24%",
-    "uptimeWeek": "17.24%",
-    "uptimeMonth": "17.24%",
-    "uptimeYear": "17.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 764,
     "timeDay": 764,
     "timeWeek": 764,
     "timeMonth": 764,
     "timeYear": 764,
-    "dailyMinutesDown": {
-      "2022-07-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BRICKS Bank",
@@ -115,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/activity.bricks.tools",
     "slug": "activity-log",
     "status": "up",
-    "uptime": "14.05%",
-    "uptimeDay": "14.05%",
-    "uptimeWeek": "14.05%",
-    "uptimeMonth": "14.05%",
-    "uptimeYear": "14.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 472,
     "timeDay": 472,
     "timeWeek": 472,
     "timeMonth": 472,
     "timeYear": 472,
-    "dailyMinutesDown": {
-      "2022-07-07": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Media Companion",
