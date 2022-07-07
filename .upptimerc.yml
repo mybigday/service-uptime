@@ -6,6 +6,9 @@ sites:
   - name: BRICKS
     method: HEAD
     url: https://display.bricks.tools
+  - name: BRICKS Device
+    method: HEAD
+    url: https://device.bricks.tools
   - name: BRICKS Bank
     url: https://bank.bricks.tools/update
   - name: MyBigDay Group
