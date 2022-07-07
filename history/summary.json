@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/device.bricks.tools",
     "slug": "bricks-device",
     "status": "down",
-    "uptime": "19.48%",
-    "uptimeDay": "19.48%",
-    "uptimeWeek": "19.48%",
-    "uptimeMonth": "19.48%",
-    "uptimeYear": "19.48%",
+    "uptime": "18.61%",
+    "uptimeDay": "18.61%",
+    "uptimeWeek": "18.61%",
+    "uptimeMonth": "18.61%",
+    "uptimeYear": "18.61%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-07": 6
+      "2022-07-07": 7
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/activity.bricks.tools",
     "slug": "activity-log",
     "status": "down",
-    "uptime": "11.37%",
-    "uptimeDay": "11.37%",
-    "uptimeWeek": "11.37%",
-    "uptimeMonth": "11.37%",
-    "uptimeYear": "11.37%",
+    "uptime": "5.60%",
+    "uptimeDay": "5.60%",
+    "uptimeWeek": "5.60%",
+    "uptimeMonth": "5.60%",
+    "uptimeYear": "5.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-07": 0
+      "2022-07-07": 1
     }
   },
   {
