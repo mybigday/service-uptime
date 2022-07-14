@@ -112,19 +112,19 @@
     "url": "https://activity.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/activity.bricks.tools",
     "slug": "activity-log",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 776,
-    "timeWeek": 670,
-    "timeMonth": 670,
-    "timeYear": 670,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 652,
+    "timeDay": 678,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-14": 13
     }
   },
   {
