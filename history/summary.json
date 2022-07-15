@@ -112,18 +112,20 @@
     "url": "https://activity.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/activity.bricks.tools",
     "slug": "activity-log",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2184,
-    "timeDay": 4641,
-    "timeWeek": 2473,
-    "timeMonth": 2184,
-    "timeYear": 2184,
-    "dailyMinutesDown": {}
+    "time": 3264,
+    "timeDay": 9795,
+    "timeWeek": 3709,
+    "timeMonth": 3264,
+    "timeYear": 3264,
+    "dailyMinutesDown": {
+      "2022-07-15": 0
+    }
   },
   {
     "name": "Media Companion",
