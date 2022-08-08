@@ -58,18 +58,20 @@
     "url": "https://group.mybigday.com.tw",
     "icon": "https://favicons.githubusercontent.com/group.mybigday.com.tw",
     "slug": "my-big-day-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 887,
+    "time": 888,
     "timeDay": 738,
     "timeWeek": 793,
     "timeMonth": 908,
     "timeYear": 932,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 0
+    }
   },
   {
     "name": "BotHub (GCP)",
