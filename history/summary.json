@@ -58,19 +58,19 @@
     "url": "https://group.mybigday.com.tw",
     "icon": "https://favicons.githubusercontent.com/group.mybigday.com.tw",
     "slug": "my-big-day-group",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 738,
-    "timeWeek": 793,
-    "timeMonth": 908,
+    "time": 887,
+    "timeDay": 756,
+    "timeWeek": 790,
+    "timeMonth": 904,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2022-08-08": 0
+      "2022-08-08": 16
     }
   },
   {
