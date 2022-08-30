@@ -40,9 +40,9 @@
     "url": "https://bank.bricks.tools/update",
     "icon": "https://favicons.githubusercontent.com/bank.bricks.tools",
     "slug": "bricks-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 596,
     "timeMonth": 608,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-30": 0
+    }
   },
   {
     "name": "MyBigDay Group",
