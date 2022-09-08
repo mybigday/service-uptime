@@ -11,7 +11,9 @@ sites:
     expectedStatusCodes:
       - 404
   - name: BRICKS Bank
-    url: https://bank.bricks.tools/update
+    url: https://bank.bricks.tools/api/not-found
+    expectedStatusCodes:
+      - 404
   - name: MyBigDay Group
     url: https://group.mybigday.com.tw
   - name: BotHub (GCP)
