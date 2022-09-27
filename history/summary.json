@@ -4,9 +4,9 @@
     "url": "https://display.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/display.bricks.tools",
     "slug": "bricks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,29 @@
     "timeWeek": 679,
     "timeMonth": 651,
     "timeYear": 658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-27": 0
+    }
   },
   {
     "name": "BRICKS Device",
     "url": "https://device.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/device.bricks.tools",
     "slug": "bricks-device",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 685,
-    "timeDay": 666,
-    "timeWeek": 740,
-    "timeMonth": 682,
+    "timeDay": 700,
+    "timeWeek": 739,
+    "timeMonth": 683,
     "timeYear": 685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-27": 0
+    }
   },
   {
     "name": "BRICKS Bank",
