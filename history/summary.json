@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 647,
     "timeDay": 470,
-    "timeWeek": 657,
+    "timeWeek": 650,
     "timeMonth": 654,
     "timeYear": 658,
     "dailyMinutesDown": {
@@ -27,12 +27,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 684,
     "timeDay": 444,
-    "timeWeek": 681,
+    "timeWeek": 655,
     "timeMonth": 691,
     "timeYear": 684,
     "dailyMinutesDown": {
@@ -62,18 +62,19 @@
     "url": "https://group.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group.mybigday.com.tw.ico",
     "slug": "my-big-day-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 910,
+    "time": 911,
     "timeDay": 594,
     "timeWeek": 794,
     "timeMonth": 996,
     "timeYear": 964,
     "dailyMinutesDown": {
+      "2022-10-04": 0,
       "2022-08-08": 16
     }
   },
@@ -82,18 +83,20 @@
     "url": "https://bothub.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/bothub.mybigday.com.tw.ico",
     "slug": "bot-hub-gcp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
+    "time": 861,
     "timeDay": 593,
     "timeWeek": 739,
     "timeMonth": 1015,
     "timeYear": 900,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-04": 0
+    }
   },
   {
     "name": "Media Flow",
@@ -158,10 +161,10 @@
     "url": "https://media-beta.bricks.tw",
     "icon": "https://icons.duckduckgo.com/ip3/media-beta.bricks.tw.ico",
     "slug": "media-resource-auth0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 843,
@@ -169,24 +172,28 @@
     "timeWeek": 730,
     "timeMonth": 787,
     "timeYear": 878,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-04": 1
+    }
   },
   {
     "name": "MyBigDay User (Legacy)",
     "url": "https://user.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/user.mybigday.com.tw.ico",
     "slug": "my-big-day-user-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
+    "time": 664,
     "timeDay": 497,
     "timeWeek": 745,
     "timeMonth": 801,
     "timeYear": 813,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-04": 1
+    }
   }
 ]
