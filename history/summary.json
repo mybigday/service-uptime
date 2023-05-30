@@ -161,9 +161,9 @@
     "url": "https://media-beta.bricks.tw",
     "icon": "https://icons.duckduckgo.com/ip3/media-beta.bricks.tw.ico",
     "slug": "media-resource-auth0",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -173,6 +173,7 @@
     "timeMonth": 1280,
     "timeYear": 943,
     "dailyMinutesDown": {
+      "2023-05-30": 0,
       "2022-10-04": 64
     }
   },
