@@ -30,12 +30,6 @@ sites:
     url: https://media-companion.bricks.tools
     expectedStatusCodes:
       - 500
-  - name: Media Resource (Auth0)
-    url: https://media-beta.bricks.tw
-  - name: MyBigDay User (Legacy)
-    url: https://user.mybigday.com.tw
-    expectedStatusCodes:
-      - 404
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
