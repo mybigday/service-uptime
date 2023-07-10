@@ -143,9 +143,9 @@
     "url": "https://media-companion.bricks.tools",
     "icon": "https://icons.duckduckgo.com/ip3/media-companion.bricks.tools.ico",
     "slug": "media-companion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,6 +154,8 @@
     "timeWeek": 873,
     "timeMonth": 560,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-10": 0
+    }
   }
 ]
