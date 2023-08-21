@@ -4,12 +4,15 @@ repo: service-uptime
 # Add your sites here
 sites:
   - name: BRICKS
-    method: HEAD
-    url: https://display.bricks.tools
+    method: POST
+    headers:
+      - "X-HEALTHCHECK-SECRET: $X_HEALTHCHECK_SECRET"
+    url: https://display.bricks.tools/api/workspace-public-health-check
   - name: BRICKS Device
-    url: https://device.bricks.tools
-    expectedStatusCodes:
-      - 404
+    method: POST
+    headers:
+      - "X-HEALTHCHECK-SECRET: $X_HEALTHCHECK_SECRET"
+    url: https://device.bricks.tools/api/public-health-check
   - name: BRICKS Bank
     url: https://bank.bricks.tools/api/not-found
     expectedStatusCodes:
