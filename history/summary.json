@@ -65,18 +65,19 @@
     "url": "https://group.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group.mybigday.com.tw.ico",
     "slug": "my-big-day-group",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 986,
+    "time": 987,
     "timeDay": 494,
     "timeWeek": 1090,
     "timeMonth": 977,
     "timeYear": 1001,
     "dailyMinutesDown": {
+      "2023-09-19": 0,
       "2022-10-04": 64
     }
   },
