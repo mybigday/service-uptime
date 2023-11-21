@@ -1,7 +1,7 @@
-url: https://activity.bricks.tools
+url: https://activity-log.bricks.tools/health
 status: up
-code: 404
-responseTime: 473
-lastUpdated: 2023-11-20T23:03:47.114Z
+code: 200
+responseTime: 80
+lastUpdated: 2023-11-21T07:38:50.740Z
 startTime: 2022-07-07T21:50:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
