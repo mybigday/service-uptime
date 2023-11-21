@@ -26,6 +26,8 @@ sites:
     expectedStatusCodes:
       - 404
   - name: Activity Log
+    url: https://activity-log.bricks.tools/health
+  - name: Activity Log (Legacy)
     url: https://activity.bricks.tools
     expectedStatusCodes:
       - 404
