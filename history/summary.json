@@ -65,9 +65,9 @@
     "url": "https://group.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group.mybigday.com.tw.ico",
     "slug": "my-big-day-group",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 597,
     "timeMonth": 885,
     "timeYear": 998,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   },
   {
     "name": "BotHub (GCP)",
