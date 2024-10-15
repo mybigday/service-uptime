@@ -1,7 +1,7 @@
 url: https://bank.bricks.tools/api/not-found
-status: down
-code: 502
-responseTime: 515
-lastUpdated: 2024-10-15T15:32:52.638Z
+status: up
+code: 404
+responseTime: 690
+lastUpdated: 2024-10-15T16:44:06.909Z
 startTime: 2021-01-03T01:27:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
