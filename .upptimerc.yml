@@ -35,6 +35,8 @@ sites:
     url: https://media-companion.bricks.tools
     expectedStatusCodes:
       - 500
+  - name: DongDong Odoo
+    url: https://odoo.odoo.dongdong.in/healthcheck
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
