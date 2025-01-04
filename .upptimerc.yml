@@ -17,10 +17,8 @@ sites:
     url: https://bank.bricks.tools/api/not-found
     expectedStatusCodes:
       - 404
-  - name: MyBigDay Group
+  - name: Group
     url: https://group.mybigday.com.tw
-  - name: BotHub (GCP)
-    url: https://bothub.mybigday.com.tw
   - name: Media Flow
     url: https://media.bricks.tools
     expectedStatusCodes:
