@@ -188,17 +188,19 @@
     "url": "https://odoo.odoo.dongdong.in/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/odoo.odoo.dongdong.in.ico",
     "slug": "dong-dong-odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 507,
-    "timeWeek": 583,
-    "timeMonth": 583,
-    "timeYear": 583,
-    "dailyMinutesDown": {}
+    "time": 569,
+    "timeDay": 485,
+    "timeWeek": 569,
+    "timeMonth": 569,
+    "timeYear": 569,
+    "dailyMinutesDown": {
+      "2025-01-10": 0
+    }
   }
 ]
