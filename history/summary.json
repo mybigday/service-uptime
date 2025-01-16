@@ -187,9 +187,9 @@
     "url": "https://odoo.odoo.dongdong.in/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/odoo.odoo.dongdong.in.ico",
     "slug": "dong-dong-odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.39%",
+    "uptimeDay": "98.37%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
@@ -199,6 +199,7 @@
     "timeMonth": 733,
     "timeYear": 733,
     "dailyMinutesDown": {
+      "2025-01-16": 0,
       "2025-01-15": 23,
       "2025-01-10": 21
     }
