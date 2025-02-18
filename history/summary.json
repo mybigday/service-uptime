@@ -22,18 +22,20 @@
     "url": "https://device.bricks.tools/api/public-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/device.bricks.tools.ico",
     "slug": "bricks-device",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 572,
-    "timeDay": 361,
-    "timeWeek": 463,
-    "timeMonth": 543,
-    "timeYear": 579,
-    "dailyMinutesDown": {}
+    "timeDay": 359,
+    "timeWeek": 450,
+    "timeMonth": 537,
+    "timeYear": 578,
+    "dailyMinutesDown": {
+      "2025-02-18": 0
+    }
   },
   {
     "name": "BRICKS Bank",
