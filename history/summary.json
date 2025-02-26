@@ -99,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity-log.bricks.tools.ico",
     "slug": "activity-log",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.62%",
     "uptimeMonth": "97.02%",
@@ -178,9 +178,9 @@
     "url": "https://odoo.odoo.dongdong.in/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/odoo.odoo.dongdong.in.ico",
     "slug": "dong-dong-odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -190,6 +190,7 @@
     "timeMonth": 1111,
     "timeYear": 959,
     "dailyMinutesDown": {
+      "2025-02-26": 0,
       "2025-01-15": 23,
       "2025-01-10": 21
     }
