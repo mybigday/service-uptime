@@ -8,33 +8,45 @@ sites:
     headers:
       - "X-HEALTHCHECK-SECRET: $X_HEALTHCHECK_SECRET"
     url: https://display.bricks.tools/api/workspace-public-health-check
+    assignees:
+      - jhen0409
   - name: BRICKS Device
     method: POST
     headers:
       - "X-HEALTHCHECK-SECRET: $X_HEALTHCHECK_SECRET"
     url: https://device.bricks.tools/api/public-health-check
-  - name: BRICKS Bank
+    assignees:
+      - jhen0409
+  - name: Data Bank
     url: https://bank.bricks.tools/api/not-found
     expectedStatusCodes:
       - 404
-  - name: Group
+    assignees:
+      - jhen0409
+  - name: Group (Legacy)
     url: https://group.mybigday.com.tw
+    assignees:
+      - jhen0409
   - name: Media Flow
     url: https://media.bricks.tools
     expectedStatusCodes:
       - 404
+    assignees:
+      - jhen0409
   - name: Activity Log
     url: https://activity-log.bricks.tools/health
-  - name: Activity Log (Legacy)
-    url: https://activity.bricks.tools
-    expectedStatusCodes:
-      - 404
-  - name: Media Companion
+    assignees:
+      - hans00
+  - name: Media Flow Companion
     url: https://media-companion.bricks.tools
     expectedStatusCodes:
       - 500
+    assignees:
+      - jhen0409
   - name: DongDong Odoo
     url: https://odoo.odoo.dongdong.in/healthcheck
+    assignees:
+      - hans00
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
