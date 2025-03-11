@@ -22,18 +22,20 @@
     "url": "https://device.bricks.tools/api/public-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/device.bricks.tools.ico",
     "slug": "bricks-device",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 367,
-    "timeWeek": 461,
-    "timeMonth": 485,
-    "timeYear": 577,
-    "dailyMinutesDown": {}
+    "time": 570,
+    "timeDay": 943,
+    "timeWeek": 578,
+    "timeMonth": 518,
+    "timeYear": 580,
+    "dailyMinutesDown": {
+      "2025-03-11": 0
+    }
   },
   {
     "name": "Data Bank",
@@ -97,12 +99,12 @@
     "status": "up",
     "uptime": "97.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.53%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "93.64%",
     "uptimeYear": "95.41%",
     "time": 882,
     "timeDay": 98,
-    "timeWeek": 2335,
+    "timeWeek": 758,
     "timeMonth": 1761,
     "timeYear": 897,
     "dailyMinutesDown": {
