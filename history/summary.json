@@ -76,18 +76,20 @@
     "url": "https://media.bricks.tools",
     "icon": "https://icons.duckduckgo.com/ip3/media.bricks.tools.ico",
     "slug": "media-flow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 537,
-    "timeDay": 680,
-    "timeWeek": 517,
+    "timeDay": 605,
+    "timeWeek": 519,
     "timeMonth": 520,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-18": 0
+    }
   },
   {
     "name": "Activity Log",
