@@ -76,19 +76,19 @@
     "url": "https://media.bricks.tools",
     "icon": "https://icons.duckduckgo.com/ip3/media.bricks.tools.ico",
     "slug": "media-flow",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 605,
-    "timeWeek": 519,
-    "timeMonth": 520,
+    "time": 538,
+    "timeDay": 619,
+    "timeWeek": 533,
+    "timeMonth": 524,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-03-18": 0
+      "2025-03-18": 4
     }
   },
   {
