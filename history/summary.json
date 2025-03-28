@@ -40,18 +40,20 @@
     "url": "https://bank.bricks.tools/api/not-found",
     "icon": "https://icons.duckduckgo.com/ip3/bank.bricks.tools.ico",
     "slug": "data-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 395,
-    "timeWeek": 527,
-    "timeMonth": 607,
-    "timeYear": 607,
-    "dailyMinutesDown": {}
+    "time": 616,
+    "timeDay": 599,
+    "timeWeek": 561,
+    "timeMonth": 616,
+    "timeYear": 616,
+    "dailyMinutesDown": {
+      "2025-03-28": 0
+    }
   },
   {
     "name": "Group (Legacy)",
@@ -95,7 +97,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity-log.bricks.tools.ico",
     "slug": "activity-log",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "93.93%",
