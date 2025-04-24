@@ -22,19 +22,19 @@
     "url": "https://device.bricks.tools/api/public-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/device.bricks.tools.ico",
     "slug": "bricks-device",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 573,
-    "timeWeek": 661,
-    "timeMonth": 606,
-    "timeYear": 601,
+    "time": 584,
+    "timeDay": 501,
+    "timeWeek": 633,
+    "timeMonth": 598,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 13
     }
   },
   {
