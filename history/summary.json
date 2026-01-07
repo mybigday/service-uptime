@@ -42,19 +42,19 @@
     "url": "https://bank.bricks.tools/api/not-found",
     "icon": "https://icons.duckduckgo.com/ip3/bank.bricks.tools.ico",
     "slug": "data-bank",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 399,
-    "timeWeek": 446,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 589,
+    "timeDay": 458,
+    "timeWeek": 455,
     "timeMonth": 524,
-    "timeYear": 590,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2026-01-07": 0
+      "2026-01-07": 24
     }
   },
   {
