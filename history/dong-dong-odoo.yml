@@ -1,7 +1,7 @@
 url: https://odoo.odoo.dongdong.in/healthcheck
-status: up
-code: 200
-responseTime: 679
-lastUpdated: 2026-01-21T23:06:54.882Z
+status: down
+code: 503
+responseTime: 454
+lastUpdated: 2026-01-22T02:43:11.407Z
 startTime: 2025-01-04T00:06:46.503Z
 generator: Upptime <https://github.com/upptime/upptime>
