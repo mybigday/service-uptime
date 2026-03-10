@@ -1,7 +1,7 @@
 url: https://activity-log.bricks.tools/health
-status: up
-code: 200
-responseTime: 2147
-lastUpdated: 2026-03-10T16:05:57.415Z
+status: down
+code: 503
+responseTime: 517
+lastUpdated: 2026-03-10T18:25:21.207Z
 startTime: 2022-07-07T21:50:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
