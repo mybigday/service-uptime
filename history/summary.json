@@ -4,19 +4,19 @@
     "url": "https://display.bricks.tools/api/workspace-public-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/display.bricks.tools.ico",
     "slug": "bricks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 2088,
-    "timeWeek": 930,
-    "timeMonth": 644,
+    "time": 601,
+    "timeDay": 1561,
+    "timeWeek": 883,
+    "timeMonth": 639,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2026-03-11": 0
+      "2026-03-11": 4
     }
   },
   {
@@ -105,8 +105,8 @@
     "status": "down",
     "uptime": "97.95%",
     "uptimeDay": "33.06%",
-    "uptimeWeek": "39.98%",
-    "uptimeMonth": "85.79%",
+    "uptimeWeek": "39.95%",
+    "uptimeMonth": "85.78%",
     "uptimeYear": "98.63%",
     "time": 816,
     "timeDay": 3450,
@@ -114,7 +114,7 @@
     "timeMonth": 843,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2026-03-11": 26,
+      "2026-03-11": 30,
       "2026-03-10": 964,
       "2026-03-09": 1053,
       "2026-03-08": 1440,
