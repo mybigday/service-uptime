@@ -6,18 +6,16 @@
     "slug": "bricks",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 601,
     "timeDay": 1561,
     "timeWeek": 883,
     "timeMonth": 639,
     "timeYear": 608,
-    "dailyMinutesDown": {
-      "2026-03-11": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BRICKS Device",
@@ -105,8 +103,8 @@
     "status": "down",
     "uptime": "97.95%",
     "uptimeDay": "33.06%",
-    "uptimeWeek": "39.95%",
-    "uptimeMonth": "85.78%",
+    "uptimeWeek": "39.85%",
+    "uptimeMonth": "85.76%",
     "uptimeYear": "98.63%",
     "time": 816,
     "timeDay": 3450,
@@ -114,7 +112,7 @@
     "timeMonth": 843,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2026-03-11": 30,
+      "2026-03-11": 39,
       "2026-03-10": 964,
       "2026-03-09": 1053,
       "2026-03-08": 1440,
