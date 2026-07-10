@@ -69,21 +69,21 @@
     "url": "https://group.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group.mybigday.com.tw.ico",
     "slug": "group-legacy",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "68.38%",
+    "uptimeWeek": "95.48%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.90%",
     "time": 862,
-    "timeDay": 662,
-    "timeWeek": 533,
-    "timeMonth": 1080,
-    "timeYear": 915,
+    "timeDay": 557,
+    "timeWeek": 523,
+    "timeMonth": 1061,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2026-06-09": 30,
       "2026-06-27": 25,
-      "2026-07-10": 0
+      "2026-07-10": 455
     }
   },
   {
