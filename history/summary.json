@@ -112,17 +112,17 @@
     "url": "https://activity-log.bricks.tools/health",
     "icon": "https://icons.duckduckgo.com/ip3/activity-log.bricks.tools.ico",
     "slug": "activity-log",
-    "status": "down",
+    "status": "up",
     "uptime": "98.30%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.87%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "97.86%",
     "time": 930,
-    "timeDay": 218,
-    "timeWeek": 371,
-    "timeMonth": 387,
-    "timeYear": 1001,
+    "timeDay": 236,
+    "timeWeek": 360,
+    "timeMonth": 383,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2026-02-10": 107,
       "2026-02-24": 24,
@@ -147,7 +147,7 @@
       "2026-04-21": 107,
       "2026-05-17": 101,
       "2026-06-09": 15,
-      "2026-07-27": 0
+      "2026-07-27": 60
     }
   },
   {
