@@ -174,22 +174,22 @@
     "url": "https://odoo.odoo.dongdong.in/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/odoo.odoo.dongdong.in.ico",
     "slug": "dong-dong-odoo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 636,
-    "timeDay": 554,
-    "timeWeek": 559,
-    "timeMonth": 565,
-    "timeYear": 639,
+    "time": 638,
+    "timeDay": 943,
+    "timeWeek": 688,
+    "timeMonth": 599,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2026-01-22": 42,
       "2026-05-19": 68,
       "2026-08-17": 21,
-      "2026-09-17": 0
+      "2026-09-17": 36
     }
   }
 ]
