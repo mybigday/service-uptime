@@ -176,10 +176,10 @@
     "url": "https://odoo.odoo.dongdong.in/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/odoo.odoo.dongdong.in.ico",
     "slug": "dong-dong-odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 650,
@@ -192,7 +192,8 @@
       "2026-05-19": 68,
       "2026-08-17": 21,
       "2026-09-17": 36,
-      "2026-10-08": 27
+      "2026-10-08": 27,
+      "2026-11-03": 1
     }
   }
 ]
